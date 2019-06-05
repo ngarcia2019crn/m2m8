@@ -1,0 +1,82 @@
+body{
+  background-color: cyan;
+  font-family: sans-serif;
+  box-shadow: 5px black;
+
+}
+.block{
+  background-color: yellow;
+  width: 205px;
+  height: 630px;
+  float: left;
+  margin: 10px;
+
+}
+#contenidor{
+  width: 1680px;
+  margin: 0 auto;
+}
+.foto{
+background-color: ;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  background-image: url('img/bad buny.jpg');
+  background-size: 100%;
+
+}
+.fotoautor{
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  float: left;
+  background-image: url('img/bad.jpg');
+  background-size: 100%;
+  border-radius: 100px;
+
+}
+.textoautor{
+  background-color: purple;
+  width: 135px;
+  height: 50px;
+  margin: 5px;
+  float: right;
+  text-align: center;
+}
+.titol{
+
+width: 200px;
+height: 25px;
+margin: 5px;
+clear: both;
+}
+.descripcion{
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+
+}
+.preu{
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+float: right;
+}
+.opcions{
+  width: 200px;
+  height: 50px;
+  margin: 5px;
+  clear: both;
+}
+h3{
+  margin: 5px;
+}
+h2{
+  text-align: center;
+}
+h4{
+  font-size: 12px;
+}
+p{
+  text-align:center;
+}
